@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.AssemblyInfo.cs
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\taskall\bin\Debug\netcoreapp3.1\taskall.exe
+C:\Users\Murad\Desktop\taskall\bin\Debug\netcoreapp3.1\taskall.deps.json
+C:\Users\Murad\Desktop\taskall\bin\Debug\netcoreapp3.1\taskall.runtimeconfig.json
+C:\Users\Murad\Desktop\taskall\bin\Debug\netcoreapp3.1\taskall.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\taskall\bin\Debug\netcoreapp3.1\taskall.dll
+C:\Users\Murad\Desktop\taskall\bin\Debug\netcoreapp3.1\taskall.pdb
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.dll
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.pdb
+C:\Users\Murad\Desktop\taskall\obj\Debug\netcoreapp3.1\taskall.genruntimeconfig.cache
