@@ -20,118 +20,177 @@ namespace taskall
         }
         static void task1()
         {
-            //int a = 14;
-            //int b = 20;
-            //int c = 12;
-            //if (a > b && a > c)
+            //try
             //{
-            //    Console.WriteLine($"a boyukdur a-nin deyeri {a}");
+            //    Console.WriteLine("1 ci ededi daxil edin");
+            //    string a = Console.ReadLine();
+            //    int sayi1 = int.Parse(a);
+            //    Console.WriteLine("2 ci ededi daxil edin");
+            //    string b = Console.ReadLine();
+            //    int sayi2 = int.Parse(b);
+            //    Console.WriteLine("3 ci ededi daxil edin");
+            //    string c = Console.ReadLine();
+            //    int sayi3 = int.Parse(c);
+            //    if (sayi1 > sayi2 && sayi1 > sayi3)
+            //    {
+            //        Console.WriteLine("1ci  boyukdur");
+            //    }
+            //    else if (sayi2 > sayi1 && sayi2 > sayi3)
+            //    {
+            //        Console.WriteLine("2ci boyukdur");
+            //    }
+            //    else if (sayi3 > sayi1 && sayi3 > sayi2)
+            //    {
+            //        Console.WriteLine("3-cu boyukdur ");
+            //    }
             //}
-            //else if (b > a && b > c)
+            //catch (Exception)
             //{
-            //    Console.WriteLine($"b boyukdur b-nin deyeri {b}");
+
+            //    Console.WriteLine("ancaq reqem daxil edin!!");
             //}
-            //else if (c > a && c > b)
-            //{
-            //    Console.WriteLine($"c boyukdur c-nin deyeri {c}");
-            //}
+            
         }
         static void task2()
         {
-            
-                //Console.WriteLine("1 ci ededi daxil edin");
-                //string a = Console.ReadLine();
-                //int sayi1 = int.Parse(a);
-                //Console.WriteLine("2 ci ededi daxil edin");
-                //string b = Console.ReadLine();
-                //int sayi2 = int.Parse(b);
-                //Console.WriteLine("3 ci ededi daxil edin");
-                //string c = Console.ReadLine();
-                //int sayi3 = int.Parse(c);
-                //Console.WriteLine("4 ci ededi daxil edin");
-                //string d = Console.ReadLine();
-                //int sayi4 = int.Parse(d);
-                //Console.WriteLine("5 ci ededi daxil edin");
-                //string e = Console.ReadLine();
-                //int sayi5 = int.Parse(e);
+            //try
+            //{
+            //    Console.WriteLine("1 ci ededi daxil edin");
+            //    string a = Console.ReadLine();
+            //    int sayi1 = int.Parse(a);
+            //    Console.WriteLine("2 ci ededi daxil edin");
+            //    string b = Console.ReadLine();
+            //    int sayi2 = int.Parse(b);
+            //    Console.WriteLine("3 ci ededi daxil edin");
+            //    string c = Console.ReadLine();
+            //    int sayi3 = int.Parse(c);
+            //    Console.WriteLine("4 ci ededi daxil edin");
+            //    string d = Console.ReadLine();
+            //    int sayi4 = int.Parse(d);
+            //    Console.WriteLine("5 ci ededi daxil edin");
+            //    string e = Console.ReadLine();
+            //    int sayi5 = int.Parse(e);
 
-                //double f = (double)(sayi1 + sayi2 + sayi3 + sayi4 + sayi5) / 5;
-                //Console.WriteLine($"ededi ortasi {f}");
-            
+            //    double f = (double)(sayi1 + sayi2 + sayi3 + sayi4 + sayi5) / 5;
+            //    Console.WriteLine($"ededi ortasi {f}");
+            //}
+            //catch (Exception)
+            //{
+
+            //    Console.WriteLine("ancaq reqem daxil edn!!");
+            //}
+
+
         }
         static void task3()
         {
-             //int p = 0;
-            //int s = 0;
-            //Console.WriteLine("eni");
-            //string a = Console.ReadLine();
-            //int sayi1 = int.Parse(a);
-            //Console.WriteLine("uzunluq");
-            //string b = Console.ReadLine();
-            //int sayi2 = int.Parse(b);
-            //p = 2 * (sayi1 + sayi2);
-            //s = (sayi1 * sayi2);
-            //Console.WriteLine($"perimetri {p} sahesi {s}");
+            //try
+            //{
+            //    int p = 0;
+            //    int s = 0;
+            //    Console.WriteLine("eni");
+            //    string a = Console.ReadLine();
+            //    int sayi1 = int.Parse(a);
+            //    Console.WriteLine("uzunluq");
+            //    string b = Console.ReadLine();
+            //    int sayi2 = int.Parse(b);
+            //    p = 2 * (sayi1 + sayi2);
+            //    s = (sayi1 * sayi2);
+            //    Console.WriteLine($"perimetri {p} sahesi {s}");
+            //}
+            //catch (Exception)
+            //{
+            //    Console.WriteLine("ancaq reqem daxil edin!!");
+                
+            //}
+            
         }
         static void task4()
         {
-            //Console.WriteLine("eded daxil edin");
-            //string a = Console.ReadLine();
-            //int sayi1 = int.Parse(a);
-            //int i = 1;
-            //int count = 0;
-            //if (sayi1 > 1)
+            //try
             //{
-            //    while (i <= sayi1)
+            //    Console.WriteLine("ededin sade ve ya murekkeb olmasin bilmek ucun daxil edin");
+            //    string a = Console.ReadLine();
+            //    int sayi1 = int.Parse(a);
+            //    int i = 1;
+            //    int count = 0;
+            //    if (sayi1 > 1)
             //    {
-            //        if (sayi1 % i == 0)
+            //        while (i <= sayi1)
             //        {
-            //            count++;
+            //            if (sayi1 % i == 0)
+            //            {
+            //                count++;
 
+            //            }
+            //            i++;
             //        }
-            //        i++;
-            //    }
-            //    if (count > 2)
-            //    {
-            //        Console.WriteLine("murekkeb");
+            //        if (count > 2)
+            //        {
+            //            Console.WriteLine("murekkeb");
+            //        }
+            //        else
+            //        {
+            //            Console.WriteLine("sade");
+            //        }
+
             //    }
             //    else
             //    {
-            //        Console.WriteLine("sade");
+            //        Console.WriteLine("duzgun daxil edin");
             //    }
-
             //}
-            //else
+            //catch (Exception)
             //{
-            //    Console.WriteLine("duzgun daxil edin");
+
+            //    Console.WriteLine("ancaq reqem daxil edin!!!");
             //}
+            
         }
         static void task5()
         {
-            //Console.WriteLine("ededin mertebesin tapmaq ucun daxil edin");
-            //string a = Console.ReadLine();
-            //int sayi = int.Parse(a);
-            //int count = 0;
-            //while (sayi > 0)
+            //try
             //{
-            //    sayi = sayi / 10;
-            //    count++;
+            //    Console.WriteLine("ededin mertebesin tapmaq ucun daxil edin");
+            //    string a = Console.ReadLine();
+            //    int sayi = int.Parse(a);
+            //    int count = 0;
+            //    while (sayi > 0)
+            //    {
+            //        sayi = sayi / 10;
+            //        count++;
+            //    }
+            //    Console.WriteLine($"mertebesi {count}");
             //}
-            //Console.WriteLine($"mertebesi {count}");
+            //catch (Exception)
+            //{
+
+            //    Console.WriteLine("ancaq reqem daxil edin!!");
+            //}
+            
         }
         static void task6()
         {
-            //Console.WriteLine("ededin 3 ve 7  bolunub bolunmemesin bilmek ucun daxil edin");
-            //string a = Console.ReadLine();
-            //int sayi1 = int.Parse(a);
-            //if (sayi1 % 21 == 0)
+            //try
             //{
-            //    Console.WriteLine("bolunur");
+            //    Console.WriteLine("ededin hem 3 hemde 7  bolunub bolunmemesin bilmek ucun daxil edin");
+            //    string a = Console.ReadLine();
+            //    int sayi1 = int.Parse(a);
+            //    if (sayi1 % 21 == 0)
+            //    {
+            //        Console.WriteLine("bolunur");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("bolunmur");
+            //    }
             //}
-            //else
+            //catch (Exception)
             //{
-            //    Console.WriteLine("bolunmur");
+
+            //    Console.WriteLine("ancaq reqem daxil edin!!");
             //}
+            
         }
         static void task7()
         {
@@ -186,15 +245,16 @@ namespace taskall
             //catch (Exception)
             //{
             //    Console.WriteLine("ancaq 0 ve 100 arasinda reqem daxil edin");
-                
+
             //}
-            
-           
+
+
         }
         static void task8()
         {
             //try
             //{
+            //    Console.WriteLine("daxil etdiyiniz 2 ededin cemin tapmaq");
             //    Console.WriteLine("1 ci ededi daxil edin");
             //    string a = Console.ReadLine();
             //    int sayi1 = int.Parse(a);
@@ -237,14 +297,15 @@ namespace taskall
             //catch (Exception)
             //{
             //    Console.WriteLine("ancaq reqem daxil edin!");
-               
+
             //}
-            
+
         }
         static void task9()
         {
             //try
             //{
+            //    Console.WriteLine("her hansi ededin quvvetini tapmaq ucun daxil edin");
             //    Console.WriteLine("ededi daxil edin");
             //    string a = Console.ReadLine();
             //    int m = int.Parse(a);
@@ -273,7 +334,7 @@ namespace taskall
 
             //    Console.WriteLine("reqem daxil edin!!!");
             //}
-            
+
         }
     }
 }
